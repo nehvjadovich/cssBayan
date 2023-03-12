@@ -1,7 +1,5 @@
 /* Hide all accordion sections by default */
-.accordion div {
-    display: none;
-  }
+
   
   /* Show the target section when its corresponding link is clicked */
   .accordion :target {
