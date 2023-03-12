@@ -1,9 +1,9 @@
 /* Hide all accordion sections by default */
-.bayan div {
+.accordion div {
     display: none;
   }
   
   /* Show the target section when its corresponding link is clicked */
-  .bayan :target {
+  .accordion :target {
     display: block;
   }
